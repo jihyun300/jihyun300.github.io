@@ -3506,7 +3506,6 @@ sub,sup{
     }
 }
 .tech{
-    max-width:33%;
     margin:10px
     
 }
@@ -3528,8 +3527,7 @@ sub,sup{
     }
 }
 .user img{
- margin:5px auto;
- max-width:40%;
+ max-width:35%;
  height:auto
 }
 .user-details{
