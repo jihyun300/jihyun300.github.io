@@ -3509,6 +3509,12 @@ sub,sup{
     width:33%;
     margin:10px   
 }
+@media only screen and (min-width:550px){
+ .tech{
+  flex-wrap:nowrap;
+  width:90%
+ }
+}
 .user{
     text-align:center;
     font-size:60px;
