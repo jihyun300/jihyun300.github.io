@@ -3536,6 +3536,10 @@ sub,sup{
  font-size:30px;
  margin:5px
 }
+.edu-icons img{
+ max-width:100%;
+ height: auto
+}
 @media only screen and (min-width:550px){
     .edu-icons{
         width:35px;
