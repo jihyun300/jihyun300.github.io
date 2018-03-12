@@ -3527,23 +3527,21 @@ sub,sup{
 }
 .edu-icons{
  display:flex;
- justify-content:center;
  text-align:center;
- height: 30px;
- padding: 10px;
- transition:all .7s;
- width:30px;
+ height: 50px;
+ width:50px;
  font-size:30px;
  margin:5px
 }
 .edu-icons img{
+ position:absolute;
  max-width:100%;
  height: auto
 }
 @media only screen and (min-width:550px){
     .edu-icons{
-        width:35px;
-        height:35px;
+        width:55px;
+        height:55px;
         font-size:35px
     }
 }
