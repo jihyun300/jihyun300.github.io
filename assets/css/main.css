@@ -3525,25 +3525,6 @@ sub,sup{
         font-size:75px
     }
 }
-.edu-icons{
- display:flex;
- height: 50px;
- width:50px;
- font-size:30px;
- text-align:center
-}
-.edu-icons img{
- margin:5px auto;
- max-width:100%;
- height: auto
-}
-@media only screen and (min-width:550px){
-    .edu-icons{
-        width:55px;
-        height:55px;
-        font-size:35px
-    }
-}
 .user-details{
     text-align:center;
     margin:5px auto
