@@ -3506,7 +3506,9 @@ sub,sup{
     }
 }
 .tech{
+    max-width:33%;
     margin:10px
+    
 }
 .user{
     text-align:center;
