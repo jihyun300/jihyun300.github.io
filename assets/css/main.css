@@ -3401,18 +3401,6 @@ sub,sup{
         font-size:100px
     }
 }
-.header .site-subtitle{
- font-size:20px;
- display:block;
- line-height:1;
- color:#4b5664
-}
-@media only screen and (min-width:550px){
- .header .site-subtitle{
-  margin:0;
-  font-size:40px
- }
-}
 .header .site-description{
     font-size:20px;
     display:block;
@@ -3424,6 +3412,18 @@ sub,sup{
     .header .site-description{
         font-size:40px
     }
+}
+.header .site-subdescription{
+ font-size:10px;
+ display:block;
+ line-height:1;
+ color:#4b5664;
+ margin-top:5px
+}
+@media only screen and (min-width:550px){
+ .header .site-subdescription{
+  font-size:20px
+ }
 }
 .header-links{
     margin:10px
