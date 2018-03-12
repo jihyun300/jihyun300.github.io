@@ -3528,8 +3528,8 @@ sub,sup{
 .edu-icons{
  display:flex;
  text-align:center;
- height: 50px;
- width:50px;
+ height: 35px;
+ width:35px;
  font-size:30px;
  margin:5px
 }
@@ -3540,8 +3540,8 @@ sub,sup{
 }
 @media only screen and (min-width:550px){
     .edu-icons{
-        width:55px;
-        height:55px;
+        width:40px;
+        height:40px;
         font-size:35px
     }
 }
