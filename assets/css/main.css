@@ -3525,6 +3525,19 @@ sub,sup{
         font-size:75px
     }
 }
+.edu-icons{
+ display:flex;
+ justify-content:center;
+ text-align:center;
+ height: 20px;
+ padding: 10px;
+ border-radius: 50%;
+ border:2px solid #fff;
+ transition:all .7s;
+ width:20px;
+ font-size:20px;
+ margin:5px
+}
 .user-details{
     text-align:center;
     margin:5px auto
