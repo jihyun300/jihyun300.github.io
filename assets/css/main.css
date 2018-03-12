@@ -3527,7 +3527,7 @@ sub,sup{
 }
 .user img{
  margin:5px auto;
- max-width:100%;
+ max-width:40%;
  height:auto
 }
 .user-details{
