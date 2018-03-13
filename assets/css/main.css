@@ -3506,14 +3506,8 @@ sub,sup{
     }
 }
 .tech{
-    width:33%;
+    width:100%;
     margin:10px   
-}
-@media only screen and (min-width:550px){
- .tech{
-  flex-wrap:nowrap;
-  width:90%
- }
 }
 .user{
     text-align:center;
@@ -3531,6 +3525,10 @@ sub,sup{
         flex-wrap:nowrap;
         font-size:75px
     }
+ .tech{
+  flex-wrap:nowrap;
+  width:48%
+ }
 }
 .user img{
  max-width:35%;
