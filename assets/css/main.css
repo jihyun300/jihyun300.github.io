@@ -3627,7 +3627,7 @@ sub,sup{
     }
 }
 .user-activities{
-    margin:20px auto
+    margin:0
 }
 .user-activities img{
     max-width:100%;
