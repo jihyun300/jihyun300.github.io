@@ -3621,6 +3621,14 @@ sub,sup{
     max-width:960px;
     margin:0 auto
 }
+#coursework{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    width:90%;
+    max-width:960px;
+    margin:0 auto
+}
 .footer{
     background:#1a222c;
     padding:10px 0;
