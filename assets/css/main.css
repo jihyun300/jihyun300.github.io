@@ -3621,6 +3621,52 @@ sub,sup{
     max-width:960px;
     margin:0 auto
 }
+@media only screen and (min-width:550px){
+    #activities{
+        width:80%
+    }
+}
+.user-activities{
+    margin:20px auto
+}
+.user-activities img{
+    max-width:100%;
+    height:auto;
+    border-radius:5px
+}
+.user-activities h5,body{
+    margin:0
+}
+.user-activities li{
+    color:#1a222c;
+    font-size:1.1rem
+}
+.user-activities p{
+    margin-right:5px
+}
+@media only screen and (min-width:550px){
+    .contents{
+        margin-left:0;
+        width:80%
+    }
+    .contents-right{
+        margin-top:-5%
+    }
+    .contents-right,.images-right{
+        float:right;
+        width:48%
+    }
+    .images-right img{
+        float:right
+    }
+    .images-left{
+        float:left;
+        width:48%
+    }
+    .images-left img{
+        float:left
+    }
+}
 #coursework{
     display:flex;
     flex-direction:column;
