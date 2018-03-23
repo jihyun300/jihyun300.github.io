@@ -3593,8 +3593,8 @@ sub,sup{
     }
 }
 .project-link{
-    display:block;
-    width:50px;
+    display:flex;
+    width:100px;
     margin:10px 0;
     padding:5px;
     color:#1a222c;
