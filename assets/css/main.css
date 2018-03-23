@@ -3592,8 +3592,7 @@ sub,sup{
         float:left
     }
 }
-.project-link{
-    display:flex;
+.project-link{    
     width:100px;
     margin:10px 0;
     padding:5px;
